@@ -1,0 +1,14 @@
+{
+  "name": "slack-bot-e2e",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent skill that end-to-end tests any Slack bot through a real Slack channel.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
